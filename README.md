@@ -45,8 +45,17 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg" alt="Git" width="40">
     <!--<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80">-->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original.svg" alt="MySQL" width="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40">
 </div>
 
+<hr style="height:1px; border:none; background-color:#ccc;" />
 
+<h3 align="center">📊Mis estadísticas en GitHub📊</h3>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=camilo-atb&include_all_commits=true&show_icons=true&theme=tokyonight&v=1" width="420"><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilo-atb&layout=compact&theme=tokyonight" width="420" alt="Lenguajes más usados por Camilo Téllez">
+</p>
+
+ <img src="assets/FOOTER_CAMILO_TELLEZ.png" alt="Footer de Camilo Téllez" width="100%">
