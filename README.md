@@ -48,7 +48,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original.svg" alt="MySQL" width="40" title="MySQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" title="PostgreSQL">
 </div>
-
+<!--
 <hr style="height:1px; border:none; background-color:#ccc;" />
-
- <img src="assets/FOOTER_CAMILO_TELLEZ.png" alt="Footer de Camilo Téllez" width="100%">
+-->
+<img src="assets/FOOTER_CAMILO_TELLEZ.png" alt="Footer de Camilo Téllez" width="100%">
