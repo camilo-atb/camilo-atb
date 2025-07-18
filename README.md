@@ -51,4 +51,5 @@
 <!--
 <hr style="height:1px; border:none; background-color:#ccc;" />
 -->
+<br>
 <img src="assets/FOOTER_CAMILO_TELLEZ.png" alt="Footer de Camilo Téllez" width="100%">
