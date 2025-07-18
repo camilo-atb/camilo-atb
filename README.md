@@ -51,11 +51,4 @@
 
 <hr style="height:1px; border:none; background-color:#ccc;" />
 
-<h3 align="center">📊Mis estadísticas en GitHub📊</h3>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=camilo-atb&include_all_commits=true&show_icons=true&theme=tokyonight&v=1" width="420"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilo-atb&layout=compact&theme=tokyonight" width="420" alt="Lenguajes más usados por Camilo Téllez">
-</p>
-
  <img src="assets/FOOTER_CAMILO_TELLEZ.png" alt="Footer de Camilo Téllez" width="100%">
